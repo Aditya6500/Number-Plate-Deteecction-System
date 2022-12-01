@@ -4,7 +4,7 @@ import imutils
 import pytesseract
 from tkinter import filedialog
 from PIL import ImageTk, Image
-
+#number plate detection 
 #This is for OCR. You will have to download Tesseract on your device.
 #Refer to this page on how to download: https://github.com/tesseract-ocr/tesseract/wiki
 #Once you download tesseract, you will have to place the path of the exe file below
